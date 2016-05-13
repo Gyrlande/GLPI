@@ -1,0 +1,3458 @@
+Test
+2016-05-02 07:23:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined offset: -1
+  Backtrace :
+  inc\entity.class.php:1926                          
+  inc\entity.class.php:351                           Entity::showHelpdeskOptions()
+  inc\commonglpi.class.php:469                       Entity::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-02 07:23:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined offset: -1
+  Backtrace :
+  inc\entity.class.php:1926                          
+  inc\entity.class.php:351                           Entity::showHelpdeskOptions()
+  inc\commonglpi.class.php:469                       Entity::displayTabContentForItem()
+  inc\commonglpi.class.php:444                       CommonGLPI::displayStandardTab()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+Test
+2016-05-02 09:02:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:02:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:02:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:02:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:03:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:03:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: glpi_heures_contrat.heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:03:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: glpi_heures_contrat.date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:03:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:18:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:18:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:18:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:18:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:19:24 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:19:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:19:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:19:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:28:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:28:27 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:28:27 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:28:27 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:31:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:31:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:31:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:32:08 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:32:09 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:32:09 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:32:09 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:34:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:34:16 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:34:16 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:34:16 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:34:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:34:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:34:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:34:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:43:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:43:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:143                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:43:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:148                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:43:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: begin_date
+  Backtrace :
+  inc\contractheures.class.php:154                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:43:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:159                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:43:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: end_date
+  Backtrace :
+  inc\contractheures.class.php:165                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:43:46 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:46:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:46:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:46:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:46:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:54:54 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:54:54 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:54:54 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 09:54:54 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:268                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:272                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:277                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: begin_date
+  Backtrace :
+  inc\contractheures.class.php:283                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:288                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: end_date
+  Backtrace :
+  inc\contractheures.class.php:294                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:299                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 11:58:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:10:50 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:10:50 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:10:50 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:10:50 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:54 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:55 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:55 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:55 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:45:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:47:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:47:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:47:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 12:47:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:01:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:01:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:01:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:01:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:02:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:02:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:02:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:02:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:02:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:02:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:02:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:02:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:03:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:03:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:03:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:03:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:07:22 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:07:22 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:07:22 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:07:22 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:11:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:11:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:11:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:11:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:12:11 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:12:12 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:12:12 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:12:12 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:12:12 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): Cannot modify header information - headers already sent by (output started at C:\UwAmp\www\glpi\inc\dropdown.class.php:1831)
+  Backtrace :
+  :                                                  
+  inc\html.class.php:1046                            header()
+  inc\html.class.php:1257                            Html::includeHeader()
+  inc\html.class.php:795                             Html::header()
+  inc\html.class.php:553                             Html::displayErrorAndDie()
+  inc\commondbtm.class.php:2447                      Html::displayRightError()
+  inc\contractheures.class.php:156                   CommonDBTM->check()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:12:12 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): Cannot modify header information - headers already sent by (output started at C:\UwAmp\www\glpi\inc\dropdown.class.php:1831)
+  Backtrace :
+  :                                                  
+  inc\html.class.php:1048                            header()
+  inc\html.class.php:1257                            Html::includeHeader()
+  inc\html.class.php:795                             Html::header()
+  inc\html.class.php:553                             Html::displayErrorAndDie()
+  inc\commondbtm.class.php:2447                      Html::displayRightError()
+  inc\contractheures.class.php:156                   CommonDBTM->check()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:12:12 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): Cannot modify header information - headers already sent by (output started at C:\UwAmp\www\glpi\inc\dropdown.class.php:1831)
+  Backtrace :
+  :                                                  
+  inc\html.class.php:2406                            header()
+  inc\html.class.php:1051                            Html::header_nocache()
+  inc\html.class.php:1257                            Html::includeHeader()
+  inc\html.class.php:795                             Html::header()
+  inc\html.class.php:553                             Html::displayErrorAndDie()
+  inc\commondbtm.class.php:2447                      Html::displayRightError()
+  inc\contractheures.class.php:156                   CommonDBTM->check()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:12:12 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): Cannot modify header information - headers already sent by (output started at C:\UwAmp\www\glpi\inc\dropdown.class.php:1831)
+  Backtrace :
+  :                                                  
+  inc\html.class.php:2407                            header()
+  inc\html.class.php:1051                            Html::header_nocache()
+  inc\html.class.php:1257                            Html::includeHeader()
+  inc\html.class.php:795                             Html::header()
+  inc\html.class.php:553                             Html::displayErrorAndDie()
+  inc\commondbtm.class.php:2447                      Html::displayRightError()
+  inc\contractheures.class.php:156                   CommonDBTM->check()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:19:53 [6@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:19:53 [6@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:19:53 [6@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:19:53 [6@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+Test
+Test
+2016-05-02 13:25:24 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:25:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:25:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:25:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:44:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:44:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:44:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:44:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:55:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:55:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:55:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:55:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:56:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:56:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:56:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:56:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:56:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:157                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:57:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:139                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:57:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:141                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:57:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:146                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 13:57:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:151                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:17:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:268                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:17:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:272                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:17:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:277                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:17:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: begin_date
+  Backtrace :
+  inc\contractheures.class.php:283                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:17:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:288                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:17:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: end_date
+  Backtrace :
+  inc\contractheures.class.php:294                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:17:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:299                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:19:38 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:268                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:19:38 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:272                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:19:38 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:277                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:19:38 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: begin_date
+  Backtrace :
+  inc\contractheures.class.php:283                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:19:38 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:288                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:19:38 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: end_date
+  Backtrace :
+  inc\contractheures.class.php:294                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:19:38 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:299                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:37:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:37:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:37:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:37:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:51:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:51:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:51:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 14:51:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 15:34:02 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 15:34:02 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 15:34:02 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-02 15:34:02 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 07:15:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 07:15:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 07:15:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 07:15:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 07:39:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 07:39:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 07:39:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 07:39:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:02:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:02:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:02:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:02:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:05:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:05:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:05:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:05:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:07:01 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:07:01 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:07:01 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:07:01 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:11:07 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:11:07 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:11:07 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 08:11:07 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 09:42:31 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\ticket.class.php:3966                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 09:43:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\ticket.class.php:3966                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 09:46:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\ticket.class.php:3966                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 09:48:16 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\ticket.class.php:3966                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 09:48:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\ticket.class.php:3966                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 09:50:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\ticket.class.php:3966                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 09:51:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\ticket.class.php:3966                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 09:52:04 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\ticket.class.php:3966                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 09:53:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\ticket.class.php:3966                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 09:54:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\ticket.class.php:3966                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 12:05:00 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:05:00 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:05:00 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:05:00 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:34:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:34:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:34:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: colsize1
+  Backtrace :
+  inc\contractheures.class.php:173                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:34:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: tt
+  Backtrace :
+  inc\contractheures.class.php:174                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:40:41 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:40:41 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:40:41 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 12:40:41 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:00:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: used
+  Backtrace :
+  inc\ticket.class.php:3964                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 14:00:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: supplier
+  Backtrace :
+  inc\ticket.class.php:3965                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 14:00:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Trying to get property of non-object
+  Backtrace :
+  inc\ticket.class.php:3965                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 14:02:27 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: used
+  Backtrace :
+  inc\ticket.class.php:3964                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-03 14:08:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:08:21 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:171                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:08:21 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1709                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\contractheures.class.php:171                   Dropdown::showHours()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:08:21 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1722                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\contractheures.class.php:171                   Dropdown::showHours()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:08:21 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:177                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:08:21 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:182                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:34:14 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:34:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:171                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:34:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1709                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\contractheures.class.php:171                   Dropdown::showHours()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:34:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1722                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\contractheures.class.php:171                   Dropdown::showHours()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:34:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:177                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:34:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:182                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:36:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:36:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:171                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:36:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1709                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\contractheures.class.php:171                   Dropdown::showHours()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:36:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1722                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\contractheures.class.php:171                   Dropdown::showHours()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:36:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:177                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:36:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:182                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:37:38 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:37:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:171                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:37:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1709                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\contractheures.class.php:171                   Dropdown::showHours()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:37:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1722                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\contractheures.class.php:171                   Dropdown::showHours()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:37:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:177                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:37:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:182                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:38:42 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:38:42 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:38:42 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:38:42 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:44:23 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:44:24 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:44:24 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 14:44:24 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:12:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:12:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:12:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:12:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:28:09 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:28:10 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:28:10 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:28:10 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:56:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:57:09 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-03 15:57:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 06:39:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 06:43:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 06:44:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 06:44:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 06:52:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:02:11 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:21:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:22:18 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:23:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:23:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:23:55 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:26:08 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:173                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:27:00 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:173                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:28:10 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:29:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:39:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:39:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:49:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:51:27 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 07:55:08 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 08:10:41 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 08:10:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractcost.class.php:268                     CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractCost->showForm()
+2016-05-04 08:13:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:174                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 08:13:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:179                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 08:13:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:184                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 08:14:13 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 08:50:18 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 08:53:50 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 08:56:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 09:10:06 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 09:11:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 09:12:27 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 09:13:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 09:18:18 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 09:53:04 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 09:54:05 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 09:54:57 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 12:15:11 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 12:31:14 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 12:32:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 12:33:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 12:36:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 12:52:07 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 13:14:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 13:14:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 13:15:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 13:15:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 13:43:48 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 13:43:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 13:54:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: name
+  Backtrace :
+  inc\contractheures.class.php:265                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:54:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:269                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:54:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: begin_date
+  Backtrace :
+  inc\contractheures.class.php:283                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:54:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: end_date
+  Backtrace :
+  inc\contractheures.class.php:284                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:54:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:285                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:54:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:286                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:54:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:287                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:58:13 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: name
+  Backtrace :
+  inc\contractheures.class.php:263                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:58:13 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:283                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:58:13 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:284                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:58:13 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:285                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:59:31 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: name
+  Backtrace :
+  inc\contractheures.class.php:263                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:59:31 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:283                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:59:31 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:284                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 13:59:31 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:285                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:00:18 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: name
+  Backtrace :
+  inc\contractheures.class.php:263                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:00:18 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:280                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:00:18 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:281                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:00:18 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:282                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:00:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:278                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:00:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:279                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:00:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:280                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:00:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:278                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:00:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:279                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:01:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:278                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-04 14:10:00 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 14:10:00 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 14:11:18 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 14:11:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 14:43:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:172                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 14:43:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:173                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 14:43:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 14:43:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 14:43:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:185                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 14:43:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:190                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 15:07:21 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 15:07:22 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 15:08:18 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 15:08:19 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 15:08:42 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 15:08:42 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 15:55:08 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-04 15:55:08 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 06:48:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 06:48:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:16:42 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:16:42 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rand
+  Backtrace :
+  inc\contractheures.class.php:188                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:17:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:19:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:20:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\contractheures.class.php:173                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:22:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:171                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:22:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:172                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:171                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:172                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:177                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:179                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:184                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:189                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:171                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:172                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:185                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:23:51 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:27:02 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:27:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:27:46 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:30:47 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:31:04 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:31:45 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:32:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:33:44 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 07:36:51 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:171                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 08:07:44 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:173                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 08:07:44 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:178                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 08:07:44 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:183                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 08:18:47 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 08:20:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:169                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 08:33:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 08:33:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:19:06 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:24:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:27:46 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:27:46 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:27:46 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:50:02 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:50:02 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:50:02 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:51:23 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:51:23 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:51:23 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:51:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:51:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:51:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:53:06 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:53:06 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 09:53:06 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 10:02:24 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 10:02:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:171                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 10:02:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: cost
+  Backtrace :
+  inc\contractheures.class.php:176                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 10:02:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: begin_date
+  Backtrace :
+  inc\contractheures.class.php:182                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 10:02:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:187                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 10:02:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: end_date
+  Backtrace :
+  inc\contractheures.class.php:193                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 10:02:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: budgets_id
+  Backtrace :
+  inc\contractheures.class.php:198                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:02:27 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:02:27 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:02:27 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:13:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:13:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:13:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:14:05 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:22:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:23:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:44:02 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:46:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:255                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:46:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:258                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:46:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:255                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:46:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:258                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:46:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:48:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:255                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:48:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:258                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:48:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:255                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:48:29 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:258                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:48:35 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:50:50 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:255                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:50:50 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:258                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:50:50 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:255                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:50:50 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: contracts_id
+  Backtrace :
+  inc\contractheures.class.php:258                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-09 12:50:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:58:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:58:42 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 12:58:47 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 13:02:16 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 13:06:15 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 13:29:05 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 13:29:06 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 13:29:06 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 13:29:07 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 13:29:07 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 13:29:07 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 13:29:08 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 13:52:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:24:36 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:33:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:42:35 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:220                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:47:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:167                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:47:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:168                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:47:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:47:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:47:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:47:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:167                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:47:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: params
+  Backtrace :
+  inc\contractheures.class.php:168                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:47:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:47:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 14:47:26 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 15:03:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: heures_contrat
+  Backtrace :
+  inc\contractheures.class.php:170                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 15:03:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:175                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 15:03:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commentaire
+  Backtrace :
+  inc\contractheures.class.php:180                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 15:20:16 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 15:35:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 15:35:39 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 15:35:41 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 15:50:31 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 15:53:14 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-09 15:59:42 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-10 06:47:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): sprintf(): Too few arguments
+  Backtrace :
+  :                                                  
+  inc\commondbtm.class.php:2153                      sprintf()
+  inc\contractcost.class.php:268                     CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractCost->showForm()
+2016-05-10 06:48:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-10 06:48:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2154                      
+  inc\contractheures.class.php:167                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-10 06:49:22 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\contractheures.class.php:167                   
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-10 06:49:22 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:168                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-10 06:53:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  front\contractheures.form.php:78                   
+2016-05-10 06:54:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  front\contractheures.form.php:78                   
+2016-05-10 06:54:43 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  front\contractheures.form.php:78                   
+2016-05-10 06:56:51 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  front\contractheures.form.php:78                   
+2016-05-10 06:56:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  front\contractheures.form.php:78                   
+2016-05-10 06:57:01 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id_contrat
+  Backtrace :
+  front\contractheures.form.php:78                   
+2016-05-10 07:16:48 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: name
+  Backtrace :
+  inc\contractheures.class.php:253                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:16:48 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:254                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:16:48 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: name
+  Backtrace :
+  inc\contractheures.class.php:253                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:16:48 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:254                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:17:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:253                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:17:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:254                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:17:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: date_dernier_achat
+  Backtrace :
+  inc\contractheures.class.php:253                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:17:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:254                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:19:01 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:257                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:19:01 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:257                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:21:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:258                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:21:28 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: comment
+  Backtrace :
+  inc\contractheures.class.php:258                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:46:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: test
+  Backtrace :
+  inc\contractheures.class.php:256                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 07:46:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: test
+  Backtrace :
+  inc\contractheures.class.php:256                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 13:19:03 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): strlen() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:182                             strlen()
+  inc\html.class.php:203                             Html::convDate()
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 13:19:03 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\html.class.php:203                             
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 13:19:03 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): substr() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:203                             substr()
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 13:19:11 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): strlen() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:182                             strlen()
+  inc\html.class.php:203                             Html::convDate()
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 13:19:11 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\html.class.php:203                             
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-10 13:19:11 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): substr() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:203                             substr()
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:15:17 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): strlen() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:182                             strlen()
+  inc\html.class.php:203                             Html::convDate()
+  inc\contractheures.class.php:277                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:15:17 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\html.class.php:203                             
+  inc\contractheures.class.php:277                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:15:17 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): substr() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:203                             substr()
+  inc\contractheures.class.php:277                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:18:09 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\contractheures.class.php:277                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:20:38 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): mysql_result() expects at least 2 parameters, 1 given
+  Backtrace :
+  :                                                  
+  inc\contractheures.class.php:277                   mysql_result()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:20:48 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): mysql_result() expects parameter 1 to be resource, object given
+  Backtrace :
+  :                                                  
+  inc\contractheures.class.php:277                   mysql_result()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:25:21 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): mysql_fetch_assoc() expects parameter 1 to be resource, object given
+  Backtrace :
+  :                                                  
+  inc\contractheures.class.php:276                   mysql_fetch_assoc()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:26:44 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\contractheures.class.php:275                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:37:50 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: heuresTotales
+  Backtrace :
+  inc\contractheures.class.php:275                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:38:41 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): strlen() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:182                             strlen()
+  inc\html.class.php:203                             Html::convDate()
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:38:41 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\html.class.php:203                             
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:38:41 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): substr() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:203                             substr()
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:44:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): strlen() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:182                             strlen()
+  inc\html.class.php:203                             Html::convDate()
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:44:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\html.class.php:203                             
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:44:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): substr() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:203                             substr()
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 08:47:32 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\contractheures.class.php:275                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 09:00:24 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\contractheures.class.php:275                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 09:00:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): strlen() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:182                             strlen()
+  inc\html.class.php:203                             Html::convDate()
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 09:00:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\html.class.php:203                             
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 09:00:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): substr() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:203                             substr()
+  inc\contractheures.class.php:275                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 09:12:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): strlen() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:182                             strlen()
+  inc\html.class.php:203                             Html::convDate()
+  inc\contractheures.class.php:276                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 09:12:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\html.class.php:203                             
+  inc\contractheures.class.php:276                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 09:12:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): substr() expects parameter 1 to be string, object given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:203                             substr()
+  inc\contractheures.class.php:276                   Html::convDateTime()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 09:13:48 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\contractheures.class.php:276                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 09:18:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\contractheures.class.php:276                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 09:39:24 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: heures_totales
+  Backtrace :
+  inc\contractheures.class.php:267                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 12:30:51 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: variable_finale
+  Backtrace :
+  inc\contractheures.class.php:279                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 13:22:20 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:160                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-11 13:22:34 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:160                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-11 13:23:16 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: id
+  Backtrace :
+  inc\commondbtm.class.php:2153                      
+  inc\contractheures.class.php:160                   CommonDBTM->showFormHeader()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-11 13:40:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\html.class.php:2995                            
+  inc\contractheures.class.php:167                   Html::showDateField()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-11 13:40:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  :                                                  
+  inc\html.class.php:4834                            sprintf()
+  inc\html.class.php:2999                            Html::hidden()
+  inc\contractheures.class.php:167                   Html::showDateField()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-11 14:54:40 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: test
+  Backtrace :
+  inc\contractheures.class.php:275                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 14:57:52 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Object of class mysqli_result could not be converted to string
+  Backtrace :
+  inc\contractheures.class.php:281                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: Commentaire
+  Backtrace :
+  inc\contractheures.class.php:265                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commenraire
+  Backtrace :
+  inc\contractheures.class.php:266                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Argument 1 passed to Html::autocompletionTextField() must be an instance of CommonDBTM, null given, called in C:\UwAmp\www\glpi\inc\contractheures.class.php on line 266 and defined
+  Backtrace :
+  inc\html.class.php:3760                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): Missing argument 2 for Html::autocompletionTextField(), called in C:\UwAmp\www\glpi\inc\contractheures.class.php on line 266 and defined
+  Backtrace :
+  inc\html.class.php:3760                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: field
+  Backtrace :
+  inc\html.class.php:3763                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: field
+  Backtrace :
+  inc\html.class.php:3766                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Trying to get property of non-object
+  Backtrace :
+  inc\html.class.php:3766                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): array_key_exists() expects parameter 2 to be array, null given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:3766                            array_key_exists()
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Trying to get property of non-object
+  Backtrace :
+  inc\html.class.php:3771                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:58 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): array_key_exists() expects parameter 2 to be array, null given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:3771                            array_key_exists()
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: Commentaire
+  Backtrace :
+  inc\contractheures.class.php:265                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commenraire
+  Backtrace :
+  inc\contractheures.class.php:266                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Catchable Fatal Error(4096): Argument 1 passed to Html::autocompletionTextField() must be an instance of CommonDBTM, null given, called in C:\UwAmp\www\glpi\inc\contractheures.class.php on line 266 and defined
+  Backtrace :
+  inc\html.class.php:3760                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): Missing argument 2 for Html::autocompletionTextField(), called in C:\UwAmp\www\glpi\inc\contractheures.class.php on line 266 and defined
+  Backtrace :
+  inc\html.class.php:3760                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: field
+  Backtrace :
+  inc\html.class.php:3763                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: field
+  Backtrace :
+  inc\html.class.php:3766                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Trying to get property of non-object
+  Backtrace :
+  inc\html.class.php:3766                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): array_key_exists() expects parameter 2 to be array, null given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:3766                            array_key_exists()
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Trying to get property of non-object
+  Backtrace :
+  inc\html.class.php:3771                            
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:44:59 [2@DESKTOP-DAKR9OR]
+  *** PHP Warning(2): array_key_exists() expects parameter 2 to be array, null given
+  Backtrace :
+  :                                                  
+  inc\html.class.php:3771                            array_key_exists()
+  inc\contractheures.class.php:266                   Html::autocompletionTextField()
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:45:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: Commentaire
+  Backtrace :
+  inc\contractheures.class.php:265                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:45:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commenraire
+  Backtrace :
+  inc\contractheures.class.php:266                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:45:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: Commentaire
+  Backtrace :
+  inc\contractheures.class.php:265                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:45:33 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commenraire
+  Backtrace :
+  inc\contractheures.class.php:266                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:46:00 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commenraire
+  Backtrace :
+  inc\contractheures.class.php:266                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:46:00 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commenraire
+  Backtrace :
+  inc\contractheures.class.php:266                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:46:21 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commenraire
+  Backtrace :
+  inc\contractheures.class.php:265                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:46:21 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: commenraire
+  Backtrace :
+  inc\contractheures.class.php:265                   
+  inc\contractheures.class.php:98                    ContractHeures::showForContract()
+  inc\commonglpi.class.php:469                       ContractHeures::displayTabContentForItem()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-11 15:50:49 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined offset: 1
+  Backtrace :
+  inc\html.class.php:3183                            
+  inc\contractheures.class.php:162                   Html::showDateTimeField()
+  ajax\viewsubitem.php:56                            ContractHeures->showForm()
+2016-05-12 07:56:25 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: date_dernier_achat
+  Backtrace :
+  inc\ticket.class.php:3980                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 12:08:46 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: interbention_heure_fin
+  Backtrace :
+  inc\ticket.class.php:3985                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 12:37:01 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1709                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\ticket.class.php:3986                          Dropdown::showHours()
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 12:37:01 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1722                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\ticket.class.php:3986                          Dropdown::showHours()
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 12:37:06 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1709                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\ticket.class.php:3986                          Dropdown::showHours()
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 12:37:06 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Array to string conversion
+  Backtrace :
+  inc\dropdown.class.php:1722                        
+  inc\dropdown.class.php:1085                        Dropdown::showFromArray()
+  inc\ticket.class.php:3986                          Dropdown::showHours()
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 12:45:37 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined property: Ticket::$field
+  Backtrace :
+  inc\ticket.class.php:3993                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 12:48:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: intervention_type_reparation
+  Backtrace :
+  inc\ticket.class.php:3996                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 12:48:56 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: intervention_tye_administration
+  Backtrace :
+  inc\ticket.class.php:3999                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 13:04:51 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: rowspan
+  Backtrace :
+  inc\ticket.class.php:4016                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 13:25:30 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: intervention_detail_de_la_prestation 
+  Backtrace :
+  inc\ticket.class.php:4024                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 13:27:00 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: intervention_detail_de_la_prestation 
+  Backtrace :
+  inc\ticket.class.php:4024                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 13:27:36 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: intervention_detail_de_la_prestation 
+  Backtrace :
+  inc\ticket.class.php:4024                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-12 13:28:04 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: intervention_detail_de_la_prestation 
+  Backtrace :
+  inc\ticket.class.php:4024                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-13 07:35:10 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined index: intervention_intervenant
+  Backtrace :
+  inc\ticket.class.php:4037                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
+2016-05-13 08:14:53 [2@DESKTOP-DAKR9OR]
+  *** PHP Notice(8): Undefined variable: idurgency
+  Backtrace :
+  inc\ticket.class.php:4235                          
+  inc\commonglpi.class.php:464                       Ticket->showForm()
+  ajax\common.tabs.php:91                            CommonGLPI::displayStandardTab()
